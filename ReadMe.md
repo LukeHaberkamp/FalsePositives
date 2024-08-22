@@ -10,4 +10,4 @@ This repository contains a Python application that calculates the probability of
 
 ## Running the Code
 
-You can run the code directly in your browser using Google Colab, without needing to install anything on your local machine.
+You can run the code directly in your browser using Google Colab, without needing to install anything on your local machine. Just click 'open in colab' on the False_Positive_Probability.ipynb script. 
